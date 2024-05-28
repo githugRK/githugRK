@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and AI**
 
-- 👨‍💻 All of my projects are available at [...](...)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/githugRK?tab=repositories">My Repositories</a>
 
 - 💬 Ask me about **react, javascript**
 
