@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rama Krishna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishna" /> </p>
-
-- 🔭 I’m currently working on Deep Learning project **Voice Based Face Animation**
 
 - 🌱 I’m currently learning **MERN Stack and AI**
 
