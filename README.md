@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rama Krishna</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="ramakrishna" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack and AI**
+- 🌱 I’m currently learning **Devops && Advanced SQL**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/githugRK?tab=repositories">My Repositories</a>
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **SQL and AWS**
 
-- 📫 How to reach me **bramakrishna45045@gmail.com**
+- 📫 How to reach me **ramakrishnabandi089@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
